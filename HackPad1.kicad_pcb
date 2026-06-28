@@ -605,7 +605,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3987fd98-7384-4f66-97d4-4d69392393b3")
-		(at 141 69)
+		(at 142.65 69)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R1"
@@ -890,7 +890,7 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm"
 		(layer "F.Cu")
 		(uuid "446d6361-2cf9-4bad-af74-effb13c195ee")
-		(at 118.5 94.88)
+		(at 107.7 74.2)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U1"
@@ -1264,7 +1264,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "68e012f3-3639-42ff-aeeb-de91d8a0afec")
-		(at 141 73.75)
+		(at 142.65 73.75)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R3"
@@ -1928,7 +1928,7 @@
 	(footprint "Buzzer_Beeper:Buzzer_D14mm_H7mm_P10mm"
 		(layer "F.Cu")
 		(uuid "c128e8d7-590e-4b57-83f0-336aa36cbec2")
-		(at 144.5 96.78)
+		(at 127 76.1)
 		(descr "Generic Buzzer, D14mm height 7mm with pitch 10mm")
 		(tags "buzzer")
 		(property "Reference" "MK1"
@@ -2120,7 +2120,7 @@
 	(footprint "Battery:BatteryHolder_Keystone_104_1x23mm"
 		(layer "F.Cu")
 		(uuid "c3ef2303-537d-4bfe-a1d1-f8df2b0fc3c8")
-		(at 108.73 77.5)
+		(at 117.23 98.5)
 		(descr "http://www.keyelco.com/product-pdf.cfm?p=744")
 		(tags "Keystone type 104 battery holder")
 		(property "Reference" "BT1"
@@ -2638,7 +2638,7 @@
 	(footprint "Button_Switch_SMD:Nidec_Copal_CAS-120A"
 		(layer "F.Cu")
 		(uuid "ff0d6d4e-5e3b-48ec-addd-7eda951ad4e4")
-		(at 134.725 101.08)
+		(at 122 80.4)
 		(descr "Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf")
 		(tags "SMD slide switch Nidec CAS 120A ")
 		(property "Reference" "SW1"
@@ -2890,7 +2890,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ff1dc395-793c-4a89-ae8a-3bebe73cf892")
-		(at 141 78.5)
+		(at 142.65 78.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R4"
