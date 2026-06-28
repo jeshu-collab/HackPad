@@ -1,0 +1,118 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_104_1x23mm'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey'.
+Info: Processing symbol 'MK1:Buzzer_Beeper:Buzzer_D14mm_H7mm_P10mm'.
+Info: Processing symbol 'R2:OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:Nidec_Copal_CAS-120A'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm'.
+Updated BT1 symbol association from  to /2284fac6-6190-4d71-b080-737a6283be52.
+Updated BT1 fields.
+Updated BT1 sheetname to 'Root'.
+Updated BT1 sheetfile to 'HackPad1.kicad_sch'.
+Add net Net-(BT1--).
+Connected BT1 pin 2 to Net-(BT1--).
+Add net +3.3V.
+Connected BT1 pin 1 to +3.3V.
+Added D1 (footprint 'LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey to LED.
+Updated D1 symbol association from  to /8682ad07-813f-45b1-a980-226104f21532.
+Updated D1 fields.
+Updated D1 sheetname to 'Root'.
+Updated D1 sheetfile to 'HackPad1.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net unconnected-(D1-A-Pad2).
+Connected D1 pin 2 to unconnected-(D1-A-Pad2).
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Added MK1 (footprint 'Buzzer_Beeper:Buzzer_D14mm_H7mm_P10mm').
+Changed REF** reference designator to MK1.
+Changed MK1 value from Buzzer_D14mm_H7mm_P10mm to Microphone_Condenser.
+Updated MK1 symbol association from  to /69a76787-022b-4733-8a3c-465011499b8e.
+Updated MK1 fields.
+Updated MK1 sheetname to 'Root'.
+Updated MK1 sheetfile to 'HackPad1.kicad_sch'.
+Add net /MIC.
+Connected MK1 pin 2 to /MIC.
+Add net GND.
+Connected MK1 pin 1 to GND.
+Added R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0402_1005Metric to R.
+Updated R1 symbol association from  to /c5c0fc61-f6e7-4195-99aa-5d10a53da6c7.
+Updated R1 fields.
+Updated R1 sheetfile to 'HackPad1.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /LDR.
+Connected R1 pin 1 to /LDR.
+Connected R1 pin 2 to +3.3V.
+Added R2 (footprint 'OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical').
+Changed REF** reference designator to R2.
+Changed R2 value from R_LDR_5.1x4.3mm_P3.4mm_Vertical to LDR07.
+Updated R2 symbol association from  to /529ac026-6aa9-4e0a-ae24-ce3169b0b826.
+Updated R2 fields.
+Updated R2 sheetname to 'Root'.
+Updated R2 sheetfile to 'HackPad1.kicad_sch'.
+Updated R1 sheetname to 'Root'.
+Connected R2 pin 1 to /LDR.
+Connected R2 pin 2 to GND.
+Added BT1 (footprint 'Battery:BatteryHolder_Keystone_104_1x23mm').
+Added R3 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0402_1005Metric to R.
+Updated R3 symbol association from  to /c173023a-f424-489b-a263-c4c3ea7839f3.
+Updated R3 fields.
+Updated R3 sheetname to 'Root'.
+Updated R3 sheetfile to 'HackPad1.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 2 to /MIC.
+Connected R3 pin 1 to +3.3V.
+Updated R2 footprint filters to 'R*LDR*5.1x4.3mm*P3.4mm*'.
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric to R.
+Updated R4 symbol association from  to /cf9ac625-d8f9-4a01-a7bd-4c1a5fe1186d.
+Updated R4 fields.
+Updated R4 sheetname to 'Root'.
+Updated R4 sheetfile to 'HackPad1.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to Net-(D1-K).
+Connected R4 pin 2 to GND.
+Changed REF** reference designator to BT1.
+Added SW1 (footprint 'Button_Switch_SMD:Nidec_Copal_CAS-120A').
+Changed REF** reference designator to SW1.
+Changed SW1 value from Nidec_Copal_CAS-120A to SW_SPDT.
+Updated SW1 symbol association from  to /d397da2e-8a1e-413f-9aa0-e0f7ce9dbd7c.
+Updated SW1 fields.
+Updated SW1 sheetname to 'Root'.
+Updated SW1 sheetfile to 'HackPad1.kicad_sch'.
+Connected SW1 pin 3 to Net-(BT1--).
+Add net unconnected-(SW1-A-Pad1).
+Connected SW1 pin 1 to unconnected-(SW1-A-Pad1).
+Connected SW1 pin 2 to GND.
+Changed BT1 value from BatteryHolder_Keystone_104_1x23mm to 3.3V Cell.
+Added U1 (footprint 'Package_DIP:DIP-8_W7.62mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-8_W7.62mm to ATtiny85V-10P.
+Updated U1 symbol association from  to /0c078d6a-64e9-47e9-bc3c-ca168a282eb8.
+Updated U1 fields.
+Updated U1 sheetname to 'Root'.
+Updated U1 sheetfile to 'HackPad1.kicad_sch'.
+Updated U1 footprint filters to 'DIP*W7.62mm*'.
+Add net /LED.
+Connected U1 pin 6 to /LED.
+Add net unconnected-(U1-AREF/PB0-Pad5).
+Connected U1 pin 5 to unconnected-(U1-AREF/PB0-Pad5).
+Connected U1 pin 4 to GND.
+Connected U1 pin 8 to +3.3V.
+Connected U1 pin 7 to /LDR.
+Connected U1 pin 2 to /MIC.
+Add net unconnected-(U1-XTAL2/PB4-Pad3).
+Connected U1 pin 3 to unconnected-(U1-XTAL2/PB4-Pad3).
+Add net unconnected-(U1-~{RESET}/PB5-Pad1).
+Connected U1 pin 1 to unconnected-(U1-~{RESET}/PB5-Pad1).
+
+
+Info: Total warnings: 0, errors: 0.
