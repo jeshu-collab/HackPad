@@ -2120,7 +2120,7 @@
 	(footprint "Battery:BatteryHolder_Keystone_104_1x23mm"
 		(layer "F.Cu")
 		(uuid "c3ef2303-537d-4bfe-a1d1-f8df2b0fc3c8")
-		(at 117.23 98.5)
+		(at 121.01 97.5)
 		(descr "http://www.keyelco.com/product-pdf.cfm?p=744")
 		(tags "Keystone type 104 battery holder")
 		(property "Reference" "BT1"
