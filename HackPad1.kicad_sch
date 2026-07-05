@@ -3266,7 +3266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 33.02 139.7 0)
 			(effects
 				(font
@@ -3410,7 +3410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 168.275 139.7 0)
 			(effects
 				(font
@@ -3865,7 +3865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 128.905 139.7 0)
 			(effects
 				(font
@@ -4427,7 +4427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 90.17 139.7 0)
 			(effects
 				(font
@@ -4833,7 +4833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 52.07 139.7 0)
 			(effects
 				(font
@@ -5349,7 +5349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 71.12 139.7 0)
 			(effects
 				(font
@@ -5584,7 +5584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 187.96 139.7 0)
 			(effects
 				(font
@@ -5794,7 +5794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 148.59 139.7 0)
 			(effects
 				(font
@@ -6175,7 +6175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keyboard_Parts:MX_SK6812MINI-E"
 			(at 109.22 139.7 0)
 			(effects
 				(font
