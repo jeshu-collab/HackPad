@@ -134,7 +134,7 @@
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "0917e5c1-d6e8-4865-9912-85c6d22e8471")
-		(at 233.15 45.8)
+		(at 87.725 79.7)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW10"
@@ -2455,7 +2455,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "734d383a-2fb4-48fc-8785-42af381d95e7")
-		(at 233.45 58.25)
+		(at 132 79)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J1"
@@ -5594,7 +5594,7 @@
 	(footprint "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
 		(layer "F.Cu")
 		(uuid "f67d6cd9-8024-43b5-bdd0-2ebec8d243bb")
-		(at 222.209 82.107531)
+		(at 116.975 78.8)
 		(property "Reference" "U1"
 			(at 19.25 2.54 0)
 			(layer "F.SilkS")
@@ -12371,16 +12371,15 @@
 		)
 	)
 	(gr_rect
-		(start 184.15 38.1)
-		(end 262.15 118.6)
+		(start 82 68)
+		(end 150 155)
 		(locked yes)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(fill none)
-		(layer "F.Cu")
-		(net 23)
-		(uuid "9ed2e05a-f9c2-429d-a992-e95573e4a8ac")
+		(layer "B.Cu")
+		(uuid "619b2f66-52d4-46ca-8bd7-b6870ca784fd")
 	)
 )
