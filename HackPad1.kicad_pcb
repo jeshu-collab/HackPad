@@ -139,7 +139,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "07cd7fd4-e742-4172-aea5-a52ecaf9088a")
-		(at 132.3 129.079999)
+		(at 224.96 78.725)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D17"
@@ -588,7 +588,7 @@
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "0917e5c1-d6e8-4865-9912-85c6d22e8471")
-		(at 157.12 79.83)
+		(at 233.15 45.8)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW10"
@@ -1045,11 +1045,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "175bb130-d9a0-4b50-b7c0-a533acd22033")
-		(at 161.34 132.4)
+		(at 199.39 107.2)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 5.08 -2.12 0)
+			(at 78.49 -52.474999 0)
 			(layer "F.SilkS")
 			(uuid "dc891a35-629b-4d64-a794-f46f35b27de9")
 			(effects
@@ -1361,7 +1361,7 @@
 			(uuid "578a2f25-3695-4a29-8e18-63d47d26cbf9")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at 73.41 -52.154999 0)
 			(layer "F.SilkS")
 			(uuid "299a9e70-0df3-45af-9b46-b207e63b91b9")
 			(effects
@@ -1440,7 +1440,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "22094ed3-5126-4f69-8e1e-657e8d1a059a")
-		(at 123.225 129.079999)
+		(at 215.885 78.725)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D14"
@@ -1889,7 +1889,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "2e46d1bc-272f-4440-b0c4-d4805a095509")
-		(at 114.15 129.079999)
+		(at 206.81 78.725)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D11"
@@ -2338,7 +2338,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2f594756-6946-4ded-b09d-c4fdeece91b7")
-		(at 161.34 128.85)
+		(at 234.75 78.495001)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
@@ -2733,7 +2733,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3398d768-bd79-4827-b679-e30c9becac94")
-		(at 161.27 98.83)
+		(at 237.3 64.8)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
@@ -3128,7 +3128,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3943f663-7308-4882-8bba-157459de3e4e")
-		(at 119.91 92.26)
+		(at 119.05 100)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
@@ -3450,7 +3450,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "47fb15db-2720-44ff-bb01-9dc95081cb57")
-		(at 114.15 120.725)
+		(at 187.56 70.370001)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D10"
@@ -3899,7 +3899,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "578d33ed-997f-4635-89cb-19bc546353a7")
-		(at 119.91 77.17)
+		(at 100 100)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
@@ -4221,7 +4221,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "58cb84db-b66c-4808-9f40-50ebc9cc154c")
-		(at 135 77.17)
+		(at 100 119.05)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW4"
@@ -4543,11 +4543,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "614598eb-cac6-4670-9d7d-e9ea057a02b1")
-		(at 161.34 135.95)
+		(at 199.39 110.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 5.08 -2.12 0)
+			(at 78.49 -52.474999 0)
 			(layer "F.SilkS")
 			(uuid "77145832-090d-4975-9906-eae71928a5ad")
 			(effects
@@ -4859,7 +4859,7 @@
 			(uuid "08c6307b-8b70-47c0-ad0e-2e129705b43f")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at 73.41 -52.154999 0)
 			(layer "F.SilkS")
 			(uuid "0fb8ef6a-d37f-40b5-b2dc-0a95d00a536d")
 			(effects
@@ -4938,7 +4938,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "61f645ee-c27a-422a-a109-f4bcdec436ec")
-		(at 161.34 125.3)
+		(at 234.75 74.945001)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
@@ -5333,7 +5333,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "62421930-a518-4d54-93d7-c22f0e9a2dc7")
-		(at 132.3 120.725)
+		(at 205.71 70.370001)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D16"
@@ -5782,11 +5782,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "66795408-0b97-4885-a225-2cd0d6ed290d")
-		(at 161.34 139.5)
+		(at 199.39 114.3)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
-			(at 5.08 -2.12 0)
+			(at 78.49 -52.474999 0)
 			(layer "F.SilkS")
 			(uuid "f2f4340c-a327-4162-9aaf-4d8be936db9c")
 			(effects
@@ -6098,7 +6098,7 @@
 			(uuid "dbadc32e-ac93-4071-9c13-d18f70406ecd")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at 73.41 -52.154999 0)
 			(layer "F.SilkS")
 			(uuid "03ea226f-1c88-463f-9398-f4c4f97d9dc1")
 			(effects
@@ -6177,7 +6177,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "7033f41b-546b-46a4-8f93-0a91eb3101fe")
-		(at 123.225 137.434998)
+		(at 215.885 87.079999)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D15"
@@ -6626,7 +6626,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "734d383a-2fb4-48fc-8785-42af381d95e7")
-		(at 157.42 92.28)
+		(at 233.45 58.25)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J1"
@@ -6935,7 +6935,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8260091b-0f60-4abb-9abe-86d486b80c9f")
-		(at 161.27 91.73)
+		(at 237.3 57.7)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
@@ -7330,7 +7330,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "8f56dcdd-62a1-4d9b-8376-7aeb619e41be")
-		(at 132.3 137.434998)
+		(at 224.96 87.079999)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D18"
@@ -7779,7 +7779,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "8fd3d997-d9ce-4850-b6b8-f0595f9a13e4")
-		(at 135 107.35)
+		(at 138.1 119.05)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW6"
@@ -8101,7 +8101,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a29e9616-d3e8-447e-853e-445ae565a707")
-		(at 161.34 121.75)
+		(at 234.75 71.395001)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
@@ -8496,7 +8496,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "b10ee5df-53d8-492a-8a70-e82ed0766dea")
-		(at 119.91 107.35)
+		(at 138.1 100)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW3"
@@ -8818,7 +8818,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "bab69150-2f40-48fd-9779-b36518154552")
-		(at 135 92.26)
+		(at 119.05 119.05)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW5"
@@ -9140,7 +9140,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "d074dc7c-d769-4d02-99b7-472648b15092")
-		(at 150.09 107.35)
+		(at 138.4 138.1)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW9"
@@ -9462,7 +9462,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "db328193-8878-46e5-b659-f3aada814f08")
-		(at 123.225 120.725)
+		(at 196.635 70.370001)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D13"
@@ -9911,7 +9911,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ed5b409d-58e1-4702-8428-e225f0fd4ff1")
-		(at 161.27 95.28)
+		(at 237.3 61.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
@@ -10306,7 +10306,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "eec14426-7c73-4d44-bf0c-fee64ddf8c39")
-		(at 150.09 92.26)
+		(at 119.05 138.1)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW8"
@@ -10628,7 +10628,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "ef4c1d97-1832-4e47-a6c9-2c855cb9028b")
-		(at 150.09 77.17)
+		(at 100 138.1)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW7"
@@ -10950,7 +10950,7 @@
 	(footprint "Keyboard_Parts:MX_SK6812MINI-E"
 		(layer "F.Cu")
 		(uuid "f11eaf7d-94e8-4bd3-a62e-00fe18da51bb")
-		(at 114.15 137.434998)
+		(at 206.81 87.079999)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D12"
@@ -11399,9 +11399,9 @@
 	(footprint "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
 		(layer "F.Cu")
 		(uuid "f67d6cd9-8024-43b5-bdd0-2ebec8d243bb")
-		(at 148.799 132.46253)
+		(at 222.209 82.107531)
 		(property "Reference" "U1"
-			(at 0 2.54 0)
+			(at 19.25 2.54 0)
 			(layer "F.SilkS")
 			(uuid "2d735106-6b0c-4a95-a29f-d4e533372ce6")
 			(effects
@@ -14254,7 +14254,7 @@
 			(uuid "5e9213e4-02ca-4bb3-ab74-91941aecc2f1")
 		)
 		(fp_text user "Seeed Studio"
-			(at 0 -1.5 0)
+			(at 19.25 -1.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3666e963-a548-4721-b6d9-acf943297c03")
@@ -14266,7 +14266,7 @@
 			)
 		)
 		(fp_text user "XIAO"
-			(at 0 0.5 0)
+			(at 19.25 0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "afeebc5f-0c32-405a-afb8-621578116b5e")
@@ -14531,8 +14531,8 @@
 		)
 	)
 	(gr_rect
-		(start 100.5 70)
-		(end 178.5 150.5)
+		(start 184.15 38.1)
+		(end 262.15 118.6)
 		(locked yes)
 		(stroke
 			(width 0.2)
@@ -14540,6 +14540,7 @@
 		)
 		(fill none)
 		(layer "F.Cu")
+		(net 28)
 		(uuid "9ed2e05a-f9c2-429d-a992-e95573e4a8ac")
 	)
 )
