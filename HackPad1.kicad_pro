@@ -523,7 +523,11 @@
       },
       {
         "netclass": "power",
-        "pattern": "+3.3V"
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "power",
+        "pattern": "+5V"
       }
     ]
   },
@@ -604,6 +608,18 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
           "show": false
         }
       ],
