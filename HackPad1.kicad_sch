@@ -1987,7 +1987,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 165.1) (xy 96.52 165.1)
+			(xy 76.2 173.99) (xy 81.28 173.99)
 		)
 		(stroke
 			(width 0)
@@ -2137,7 +2137,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 165.1) (xy 96.52 163.83)
+			(xy 81.28 173.99) (xy 81.28 172.72)
 		)
 		(stroke
 			(width 0)
@@ -2257,7 +2257,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 161.29) (xy 96.52 161.29)
+			(xy 77.47 170.18) (xy 81.28 170.18)
 		)
 		(stroke
 			(width 0)
@@ -2677,7 +2677,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 157.48) (xy 96.52 157.48)
+			(xy 76.2 166.37) (xy 81.28 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2697,7 +2697,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 157.48) (xy 96.52 158.75)
+			(xy 81.28 166.37) (xy 81.28 167.64)
 		)
 		(stroke
 			(width 0)
@@ -2999,7 +2999,7 @@
 	)
 	(global_label "ENCB"
 		(shape passive)
-		(at 91.44 165.1 180)
+		(at 76.2 173.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3009,7 +3009,7 @@
 		)
 		(uuid "55c44c76-a580-4db2-b033-0e26df1d2440")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 84.5466 165.1 0)
+			(at 69.3066 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3285,7 +3285,7 @@
 	)
 	(global_label "ENCA"
 		(shape passive)
-		(at 91.44 157.48 180)
+		(at 76.2 166.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3295,7 +3295,7 @@
 		)
 		(uuid "f0eaf6db-1b3f-48fa-b2fd-9326acd2059b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 84.728 157.48 0)
+			(at 69.488 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3778,7 +3778,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 92.71 161.29 270)
+		(at 77.47 170.18 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3787,7 +3787,7 @@
 		(fields_autoplaced yes)
 		(uuid "22e441af-eaf1-4d67-beeb-3fa23ec0454f")
 		(property "Reference" "#PWR23"
-			(at 86.36 161.29 0)
+			(at 71.12 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3796,7 +3796,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 88.9 161.2899 90)
+			(at 73.66 170.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3805,7 +3805,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 161.29 0)
+			(at 77.47 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3814,7 +3814,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 161.29 0)
+			(at 77.47 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3823,7 +3823,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 92.71 161.29 0)
+			(at 77.47 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5179,7 +5179,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder")
-		(at 104.14 161.29 0)
+		(at 88.9 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5188,7 +5188,7 @@
 		(fields_autoplaced yes)
 		(uuid "999138f0-79be-43fb-b5ba-b3c9fb0ec623")
 		(property "Reference" "SW10"
-			(at 110.49 160.0199 0)
+			(at 95.25 168.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5197,7 +5197,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder"
-			(at 110.49 162.5599 0)
+			(at 95.25 171.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5206,7 @@
 			)
 		)
 		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-			(at 100.33 157.226 0)
+			(at 85.09 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5215,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 154.686 0)
+			(at 88.9 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5224,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs"
-			(at 104.14 161.29 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
