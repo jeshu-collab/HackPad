@@ -64,11 +64,8 @@
         "copper_edge_clearance|125830499|132330500|9c05f911-29bf-4e19-93e5-805f4835dd98|fd09cbd9-3e6c-404c-9d79-6b01fb446396",
         "copper_edge_clearance|125830499|136094500|690f8b92-1649-4b17-a270-8bd0e5dd7e5a|fc3fce52-58a8-410c-88ff-20175d56d6c1",
         "copper_edge_clearance|126328000|112330500|cbe77a27-6354-4823-8592-9e6e3f1a2d93|e47b4ea6-b49f-4821-85eb-2e4ddedfb41a",
-        "copper_edge_clearance|126328000|116094500|067a0dad-148d-4cda-a397-51dd3fef88a6|cf4aabfd-9e95-41df-ab67-6cbd73cf18ca",
         "copper_edge_clearance|126674499|132330500|9c05f911-29bf-4e19-93e5-805f4835dd98|17736948-6d59-4165-b4f1-88d4ce843b46",
-        "copper_edge_clearance|126674499|136094500|690f8b92-1649-4b17-a270-8bd0e5dd7e5a|d2254c60-ff52-4903-9d7d-61444562295e",
-        "copper_edge_clearance|127172000|112330500|cbe77a27-6354-4823-8592-9e6e3f1a2d93|f034b805-e945-41b4-bb70-b2c42341715d",
-        "copper_edge_clearance|127172000|116094500|067a0dad-148d-4cda-a397-51dd3fef88a6|ff5a05cf-c63f-49c0-984f-d68dde8ba4b2"
+        "copper_edge_clearance|127172000|112330500|cbe77a27-6354-4823-8592-9e6e3f1a2d93|f034b805-e945-41b4-bb70-b2c42341715d"
       ],
       "meta": {
         "version": 2
@@ -550,7 +547,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../Downloads/HackPad1.step",
       "svg": "",
       "vrml": ""
     },
