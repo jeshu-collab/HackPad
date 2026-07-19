@@ -27,7 +27,7 @@ The enclosure is designed as a two-piece case.
 
 ### Overall View
 
-![Overall Hackpad](assets/overall.png)
+![Overall Hackpad](assets/CAD.png)
 
 ### Case Assembly
 
@@ -41,11 +41,11 @@ The PCB was designed in KiCad. It includes the switch matrix, rotary encoder, OL
 
 ### Schematic
 
-![Schematic](assets/schematic.png)
+![Schematic](assets/Schematic.png)
 
 ### PCB Layout
 
-![PCB](assets/pcb.png)
+![PCB](assets/PCB_layout.png)
 
 ---
 
