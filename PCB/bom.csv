@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9","D","~","-- mixed values --","9",""
+"D10,D11,D12,D13","WS2812B","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","Keyboard_Parts:MX_SK6812MINI-E","4",""
+"J1","Conn_01x04_Pin","~","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","1",""
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","SW_Push","~","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","9",""
+"SW10","RotaryEncoder","~","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","1",""
+"U1","MOUDLE-SEEEDUINO-XIAO","","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM","1",""
